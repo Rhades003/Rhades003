@@ -14,7 +14,10 @@
 
 - Full-Stack Developer with a focus on Backend.
 - Allways learning about new technologies and metodologies.
-- You can check my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- You can check my LinkedIn profile here:
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
 <br>
 
