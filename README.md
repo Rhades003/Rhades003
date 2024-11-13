@@ -29,39 +29,39 @@
 <p align="center">
 
 -- **Frontend Lenguages & Frameworks**:
-  
+  <br>
 <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap," />
   </a>
   
-<br>
+
    
 -- **Backend Lenguages & Frameworks**:
-  
+  <br>
 <a href="">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,py,php,laravel,cs" />
   </a>
 
-<br>
+
 
 -- **Databases**:
-
+<br>
  <a href="">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 
-<br>
+
 
 -- **Software & Tools**:
-
+<br>
  <a href="">
     <img src="https://skillicons.dev/icons?i=git,github,selenium,ps,figma,linux,postman" />
   </a>
 
-<br>
+
 
 -- **IDE & Engine's**:
-
+<br>
  <a href="">
     <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,godot" />
   </a>
