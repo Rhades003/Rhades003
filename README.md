@@ -15,7 +15,7 @@
 - Full-Stack Developer with a focus on Backend.
 - Allways learning about new technologies and metodologies.
 - You can check my LinkedIn profile here:
- <a href="https://skillicons.dev">
+ <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
@@ -30,7 +30,7 @@
 
 -- **Frontend Lenguages & Frameworks**:
   
-<a href="https://skillicons.dev">
+<a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap," />
   </a>
   
@@ -38,7 +38,7 @@
    
 -- **Backend Lenguages & Frameworks**:
   
-<a href="https://skillicons.dev">
+<a href="">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,py,php,laravel,cs" />
   </a>
 
@@ -46,7 +46,7 @@
 
 -- **Databases**:
 
- <a href="https://skillicons.dev">
+ <a href="">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 
@@ -54,7 +54,7 @@
 
 -- **Software & Tools**:
 
- <a href="https://skillicons.dev">
+ <a href="">
     <img src="https://skillicons.dev/icons?i=git,github,selenium,ps,figma,linux,postman" />
   </a>
 
@@ -62,7 +62,7 @@
 
 -- **IDE & Engine's**:
 
- <a href="https://skillicons.dev">
+ <a href="">
     <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,godot" />
   </a>
 
