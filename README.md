@@ -25,7 +25,7 @@
 
 <p align="center">
 
-- **Frontend Lenguages & Frameworks**:
+-- **Frontend Lenguages & Frameworks**:
   
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap," />
@@ -33,7 +33,7 @@
   
 <br>
    
-- **Backend Lenguages & Frameworks**:
+-- **Backend Lenguages & Frameworks**:
   
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,py,php,laravel,cs" />
@@ -41,7 +41,7 @@
 
 <br>
 
-- **Databases**:
+-- **Databases**:
 
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
